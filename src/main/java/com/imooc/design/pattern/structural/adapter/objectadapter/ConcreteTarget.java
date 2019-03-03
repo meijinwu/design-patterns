@@ -1,4 +1,4 @@
-package com.imooc.design.pattern.structural.adapter.structural.adapter.objectadapter;
+package com.imooc.design.pattern.structural.adapter.objectadapter;
 
 /**
  * Created by amaze on 2019-02-20.
